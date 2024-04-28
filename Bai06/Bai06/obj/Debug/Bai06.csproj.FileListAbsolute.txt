@@ -1,0 +1,15 @@
+C:\Lab4_Ltmcb\Bai06\Bai06\bin\Debug\Bai06.exe.config
+C:\Lab4_Ltmcb\Bai06\Bai06\bin\Debug\Bai06.exe
+C:\Lab4_Ltmcb\Bai06\Bai06\bin\Debug\Bai06.pdb
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.csproj.AssemblyReference.cache
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.csproj.SuggestedBindingRedirects.cache
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.Form1.resources
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.FormClient.resources
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.Properties.Resources.resources
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.csproj.GenerateResource.cache
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.csproj.CoreCompileInputs.cache
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.exe
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.pdb
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.FormServer.resources
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.Me.resources
+C:\Lab4_Ltmcb\Bai06\Bai06\obj\Debug\Bai06.You.resources

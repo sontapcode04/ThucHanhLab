@@ -1,0 +1,13 @@
+C:\Lab4_Ltmcb\Lab04\Bai01\bin\Debug\Bai01.exe.config
+C:\Lab4_Ltmcb\Lab04\Bai01\bin\Debug\Bai01.exe
+C:\Lab4_Ltmcb\Lab04\Bai01\bin\Debug\Bai01.pdb
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.csproj.SuggestedBindingRedirects.cache
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.Form1.resources
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.exe
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.pdb
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.FormClient.resources
+C:\Lab4_Ltmcb\Lab04\Bai01\obj\Debug\Bai01.FormServer.resources
