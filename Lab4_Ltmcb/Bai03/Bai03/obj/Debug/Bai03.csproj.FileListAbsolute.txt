@@ -1,0 +1,17 @@
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\Bai03.exe.config
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\Bai03.exe
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\Bai03.pdb
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.csproj.AssemblyReference.cache
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.csproj.SuggestedBindingRedirects.cache
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.Form1.resources
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.Properties.Resources.resources
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.csproj.GenerateResource.cache
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.csproj.CoreCompileInputs.cache
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.exe
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.pdb
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\Newtonsoft.Json.dll
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\Newtonsoft.Json.xml
+C:\Lab4_Ltmcb\Bai03\Bai03\obj\Debug\Bai03.csproj.CopyComplete
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\HtmlAgilityPack.dll
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\HtmlAgilityPack.pdb
+C:\Lab4_Ltmcb\Bai03\Bai03\bin\Debug\HtmlAgilityPack.xml

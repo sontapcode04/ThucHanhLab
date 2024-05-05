@@ -1,0 +1,14 @@
+C:\Lab4_Ltmcb\Bai05\Login\bin\Debug\Login.exe.config
+C:\Lab4_Ltmcb\Bai05\Login\bin\Debug\Login.exe
+C:\Lab4_Ltmcb\Bai05\Login\bin\Debug\Login.pdb
+C:\Lab4_Ltmcb\Bai05\Login\bin\Debug\Newtonsoft.Json.dll
+C:\Lab4_Ltmcb\Bai05\Login\bin\Debug\Newtonsoft.Json.xml
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.Form1.resources
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.exe
+C:\Lab4_Ltmcb\Bai05\Login\obj\Debug\Login.pdb
