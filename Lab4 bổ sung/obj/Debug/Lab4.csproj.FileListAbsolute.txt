@@ -1,0 +1,22 @@
+D:\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.exe.config
+D:\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.exe
+D:\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.pdb
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Lab04_Bai01.resources
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.exe
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.pdb
+D:\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Lab04_Bai02.resources
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.exe.config
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.exe
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\bin\Debug\Lab4.pdb
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Lab04_Bai01.resources
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Lab04_Bai02.resources
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.exe
+D:\Sơn\THỰC HÀNH LẬP TRÌNH MẠNG CB\22521247-DangBaoSon\Lab4\obj\Debug\Lab4.pdb
